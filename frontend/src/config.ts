@@ -1,1 +1,1 @@
-export const API_URL = "https://iq-titan-ai-backend.onrender.com";
+export const API_URL = import.meta.env.VITE_URL_API;
